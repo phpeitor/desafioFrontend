@@ -15,4 +15,5 @@ para los mensajes de alerta
 /***Archivo:::css/bootstrap.min.css|main.css***/
 para los estilos de botones, header, footer, fonts, tables, responsive.
 
+EXAMPLE
 ![alt tag](http://amvsoluciones.comuv.com/img/desafio.png)
